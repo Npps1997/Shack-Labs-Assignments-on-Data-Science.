@@ -37,3 +37,4 @@ Assignment 1. Machine Learning model performances- Used r2 score as performance 
 Assignment 2. Product Matching using Title Similarity model.
     
 I have choosen the technique of title similarity model by using Universal Sentence Encoder for finding the Embeddings and used numpy for finding the title similarity.
+reference: https://forbytes.com/blog/product-matching-in-ecommerce/
